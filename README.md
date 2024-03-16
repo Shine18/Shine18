@@ -2,12 +2,17 @@
 
 😎 I am a Full Stack Developer with 10+ years of experience
 
-- ✨ Founder & CEO of Signature Works LLC
+- ✨ Founder & CEO of Signature Works LLC - A Shopify Plus Expert Agency [www.1s.agency](https://www.1s.agency)
 - ⭐️ Shopify Plus Expert
 - 💻 Full Stack Engineer
 - 📱 iOS Developer
 
 🚀 I have worked with top fashion brands in US to optimize their Online Stores and create customer retention strategies.
+
+### I also run my own projects in free time which include:
+- A coding blog at [Non Typical Dev](https://non-typical.dev/)
+- Love to code apps as personal projects
+- Unleashing my creativity with apps
 
 
 ## 💬 How to Reach me:
