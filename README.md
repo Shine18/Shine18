@@ -1,4 +1,20 @@
-### Hi there 👋
+## Hi there 👋, I am Aakash Ahmed
+
+😎 I am a Full Stack Developer with 10+ years of experience
+
+- ✨ Founder & CEO of Signature Works LLC
+- ⭐️ Shopify Plus Expert
+- 💻 Full Stack Engineer
+- 📱 iOS Developer
+
+🚀 I have worked with top fashion brands in US to optimize their Online Stores and create customer retention strategies.
+
+
+## 💬 How to Reach me:
+⭐️ You can reach me at
+
+[<img src="https://github.com/Shine18/Shine18/assets/6214437/f55031df-0083-4c81-be21-3dd16431a1a1" width="50" />](https://www.linkedin.com/in/shine18/)
+
 
 <!--
 **Shine18/Shine18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
