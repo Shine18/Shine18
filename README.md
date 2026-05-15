@@ -1,10 +1,10 @@
 ## Hi there 👋, I am Aakash Ahmed
 
-😎 I am a Full Stack Developer with 10+ years of experience
+😎 I am a Full Stack Developer with 12+ years of experience
 
 - ⭐️ Shopify Plus Expert
 - 💻 Full Stack Engineer
-- 📱 iOS Developer
+
 
 🚀 I have worked with top fashion brands in US to optimize their Online Stores and create customer retention strategies.
 
